@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtaimoorkhalid)](https://github.com/mtaimoorkhalid/github-readme-stats)
+![Muhammad Taimoor Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtaimoorkhalid&show_icons=true&theme=radical)
 
 <!--
 **mtaimoorkhalid/mtaimoorkhalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
