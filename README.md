@@ -25,6 +25,6 @@
 
 ![Muhammad Taimoor Khalid's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtaimoorkhalid&show_icons=true&theme=radical)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtaimoorkhalid&show_icons=true&locale=en&theme=radical" alt="mtaimoorkhalid" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mtaimoorkhalid&show_icons=true&locale=en" alt="mtaimoorkhalid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mtaimoorkhalid&" alt="mtaimoorkhalid" /></p>
