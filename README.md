@@ -1,4 +1,4 @@
-<div style="background-image: url('Black Minimalist Corporate Professional Profile LinkedIn Banner.png'); background-size: cover; padding: 100px 0;">
+<div style="background-image: url('[Black Minimalist Corporate Professional Profile LinkedIn Banner.png](https://drive.google.com/file/d/1oC3vvJDzbavQ7SkCVmiwsjTYfRfbB27p/view?usp=sharing)'); background-size: cover; padding: 100px 0;">
 <h1 align="center">Hi 👋, I'm Muhammad Taimoor Khalid</h1>
 <h3 align="center">A passionate full stack MERN developer from Pakistan</h3>
 
