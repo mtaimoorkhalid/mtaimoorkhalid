@@ -1,3 +1,4 @@
+<div style="background-image: url('[path/to/your/banner/image.jpg](https://github.com/mtaimoorkhalid/images/blob/main/Black%20Minimalist%20Corporate%20Professional%20Profile%20LinkedIn%20Banner.png)'); background-size: cover; padding: 100px 0;">
 <h1 align="center">Hi 👋, I'm Muhammad Taimoor Khalid</h1>
 <h3 align="center">A passionate full stack MERN developer from Pakistan</h3>
 
