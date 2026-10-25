@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **react.js, express.js, node.js, mongodb, postgresql**
 
-- 📫 How to reach me **taimoormkh@gmail.com** **+92 332 8405137**
+- 📫 How to reach me **taimoormkh@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
