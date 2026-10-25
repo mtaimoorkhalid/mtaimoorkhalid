@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [eMate](https://github.com/mtaimoorkhalid/rtds-fair-race.git)
+- 🔭 I’m currently working on [this research project](https://github.com/mtaimoorkhalid/rtds-fair-race.git)
 
 - 🌱 I’m currently learning **MERN**
 
