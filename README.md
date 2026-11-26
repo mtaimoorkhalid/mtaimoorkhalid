@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Muhammad Taimoor Khalid</h1>
+<h1 align="center">Hi, I'm Taimoor Khalid</h1>
 <h3 align="center">MSc student at Stockholm University · AI Engineering &amp; LLM Evaluation · Full-Stack (React/Node)</h3>
 
 <p align="left">
